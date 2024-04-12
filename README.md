@@ -14,14 +14,23 @@ Material for user training day of SpikeInterface
 
 **Afternoon : guided hands-on** 4h
 
-* 14:00 - 14:20 probe handling (Zach)
-* 14:20 - 14:40 preprocessing (Pierre)
-* 14:40 - 15:10 NP + drift +  (Alessio)
-* 15:10 - 15:30 Container (Ramon)
+here the goal is to give detail
+
+* object interaction cookbook (Ramon) Only talk (10-15)
+* 14:00 - 14:20 probe handling (Zach) 
+* 14:20 - 14:40 preprocessing (Alessio)
+* 14:40 - 15:10 drift with generated  (Pierre)
+* 15:10 - 15:30 postprocessing (Chris) + plot matplolib
+
+
 * break
-* 15:50 - 16:10 postprocessing (Chris)
-* 16:10 - 16:30 visualization (Alessio and Sam)
-* 16:30 - 16:50 metrics and curation (Aurelien)
-* 16:50 - 17:10 benchamark simulated + hybrid + real with residual (Sam)
+* 15:50 - 16:10 visualization (Alessio sortingview and Sam sigui)
+* 16:10 - 16:30 metrics and curation (automerge ? + reove duplicated) (Aurelien)
+* 16:30 - 16:50 benchamark simulated + hybrid + real with residual (Sam)
+* 16:50 - 17:10 
+
+ Container maybe too short without handons
+* Export to NWB
+
 * break
-* 17:30 - 18:30 Hand on on your own dataset
+* 17:30 - 18:30 Hand on on your own dataset + docker isntall
