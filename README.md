@@ -2,6 +2,10 @@
 
 Material for user training day of SpikeInterface
 
+TODO: put here some practical informations (venue, lunch, ...)
+
+
+## schedule
 
 **Morning : overiew and tutorials** 3.5h
 
@@ -26,7 +30,7 @@ here the goal is to give detail
 * break
 * 15:50 - 16:10 visualization (Alessio sortingview and Sam sigui)
 * 16:10 - 16:30 metrics and curation (automerge ? + reove duplicated) (Aurelien)
-* 16:30 - 16:50 benchamark simulated + hybrid + real with residual (Sam)
+* 16:30 - 16:50 benchmark simulated + hybrid + real with residual (Sam)
 * 16:50 - 17:10 
 
  Container maybe too short without handons
