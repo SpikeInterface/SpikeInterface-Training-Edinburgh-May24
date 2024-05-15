@@ -90,5 +90,6 @@ Standard installation using system and pip are faster and easier to manage.
 
 ## Dataset
 
-Please download datasets here : TODO link to paste here
+Please download datasets from this link:
 
+https://drive.google.com/drive/folders/17RlgsMLheW82IMLMgmTFifVACebDZ8X5?usp=sharing
