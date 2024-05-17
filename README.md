@@ -11,32 +11,30 @@ https://spikeinterface.github.io/spikeinterface-events/spikeinterface-workshop-2
 
 ## Schedule
 
-**Morning : overiew and tutorials** 3.5h
+| Time        | Topic                                   | Presenter(s)                   | Type         |
+|:------------|:----------------------------------------|:-------------------------------|:-------------|
+| **Morning** | **Overview and Tutorials** (3.5 hours) |                               |             |
+| 9:00 - 10:00   | Spike sorting overview                   | Pierre                         | Talk         |
+| 10:00 - 10:45  | Spikeinterface overview                   | Alessio                        | Talk         |
+|             | _break_                                 |                               |             |
+| 11:00 - 11:20  | Ultra quick demo (simulated)             | Sam                           | Demo         |
+| 11:20 - 12:30  | Long demo (Cambridge Neurotech data)     | Sam                           | Demo         |
+|             |                                       |                               |             |
+| **Afternoon** | **Guided Hands-on** (4 hours)            |                               |             |
+| 14:00 - 14:15  | Object interaction cookbook              | Heberto                        | Talk         |
+| 14:15 - 14:30  | Probe handling                          | Zach                          | Hands-on     |
+| 14:30 - 14:50  | Preprocessing                           | Alessio                        | Talk         |
+| 14:50 - 15:10  | Drift with generated data              | Pierre                         | Talk         |
+| 15:10 - 15:30  | Postprocessing                          | Chris                         | Hands-on     |
+|             | _break_ (20 min)                        |                               |             |
+| 15:50 - 16:10  | Visualization (Sortingview, Sigui)       | Alessio, Sam                   | Hands-on     |
+| 16:10 - 16:30  | Metrics & Curation (Automerge, etc.)     | Aurelien                       | Hands-on     |
+| 16:30 - 16:40  | Benchmark (simulated)                   | Sam                           | Talk         |
+| 16:50 - 17:10  | Export to NWB (neuroconv)                | Heberto                        | Hands-on     |
+|             | _break_ (20 min)                        |                               |             |
+| **Bonus Track** |                                       |                               |             |
+| 17:30 - 18:30  | Hands-on with your own dataset           |                               | Hands-on     | 
 
-* 9:00 - 10:00 Spike sorting overview (Pierre)
-* 10:00 - 10:45 Spikeinterface overview (Alessio)
-* break
-* 11:00 - 11:20 Ultra quick demo with simulated (Sam)
-* 11:20 - 12:30 Long and detailed on cambridge neurotech data (Sam)
-
-
-**Afternoon : guided hands-on** 4h
-
-Here the goal is to give details with guided hands-on.
-
-* 14:00 - 14:15 object interaction cookbook (Heberto) Only talk (10-15)
-* 14:15 - 14:30 probe handling (Zach) Handson
-* 14:30 - 14:50 preprocessing (Alessio) Only talk
-* 14:50 - 15:10 drift with generated  (Pierre) Only talk
-* 15:10 - 15:30 postprocessing (Chris) Handson
-* break 20min
-* 15:50 - 16:10 visualization (Alessio sortingview and Sam sigui) Handson
-* 16:10 - 16:30 metrics and curation (automerge ? + reove duplicated) (Aurelien) Handson
-* 16:30 - 16:40 benchamark simulated  (Sam) talk only
-* 16:50 - 17:10 Export to NWB neuroconv (Heberto) Handson
-* break 20min
-Bonus track : 
-* 17:30 - 18:30 Hand on on your own dataset
 
 
 =======
