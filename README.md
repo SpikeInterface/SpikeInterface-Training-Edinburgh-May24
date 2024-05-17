@@ -24,7 +24,7 @@ https://spikeinterface.github.io/spikeinterface-events/spikeinterface-workshop-2
 
 Here the goal is to give details with guided hands-on.
 
-* 14:00 - 14:15 object interaction cookbook (Ramon) Only talk (10-15)
+* 14:00 - 14:15 object interaction cookbook (Heberto) Only talk (10-15)
 * 14:15 - 14:30 probe handling (Zach) Handson
 * 14:30 - 14:50 preprocessing (Alessio) Only talk
 * 14:50 - 15:10 drift with generated  (Pierre) Only talk
@@ -33,7 +33,7 @@ Here the goal is to give details with guided hands-on.
 * 15:50 - 16:10 visualization (Alessio sortingview and Sam sigui) Handson
 * 16:10 - 16:30 metrics and curation (automerge ? + reove duplicated) (Aurelien) Handson
 * 16:30 - 16:40 benchamark simulated  (Sam) talk only
-* 16:50 - 17:10 Export to NWB neuroconv (ramon) Handson
+* 16:50 - 17:10 Export to NWB neuroconv (Heberto) Handson
 * break 20min
 Bonus track : 
 * 17:30 - 18:30 Hand on on your own dataset
