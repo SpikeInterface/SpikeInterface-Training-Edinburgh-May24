@@ -5,7 +5,11 @@ Material for user training day of SpikeInterface
 TODO: put here some practical informations (venue, lunch, ...)
 
 
-## schedule
+Link to the main event:
+https://spikeinterface.github.io/spikeinterface-events/spikeinterface-workshop-2024/
+
+
+## Schedule
 
 **Morning : overiew and tutorials** 3.5h
 
