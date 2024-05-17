@@ -21,23 +21,18 @@ TODO: put here some practical informations (venue, lunch, ...)
 Here the goal is to give details with guided hands-on.
 
 * 14:00 - 14:15 object interaction cookbook (Ramon) Only talk (10-15)
-* 14:15 - 14:30 probe handling (Zach)
-* 14:30 - 14:50 preprocessing (Alessio)
-* 14:50 - 15:10 drift with generated  (Pierre)
-* 15:10 - 15:30 postprocessing (Chris) + plot matplolib
-* break
-* 15:50 - 16:10 visualization (Alessio sortingview and Sam sigui)
-* 16:10 - 16:30 metrics and curation (automerge ? + reove duplicated) (Aurelien)
-* 16:30 - 16:40 benchamark simulated  (Sam) Only talk
-* 16:50 - 17:10 Export to NWB (ramon)
-* break
-* 16:30 - 16:50 benchmark simulated + hybrid + real with residual (Sam)
-* 16:50 - 17:10 
-
+* 14:15 - 14:30 probe handling (Zach) Handson
+* 14:30 - 14:50 preprocessing (Alessio) Only talk
+* 14:50 - 15:10 drift with generated  (Pierre) Only talk
+* 15:10 - 15:30 postprocessing (Chris) Handson
+* break 20min
+* 15:50 - 16:10 visualization (Alessio sortingview and Sam sigui) Handson
+* 16:10 - 16:30 metrics and curation (automerge ? + reove duplicated) (Aurelien) Handson
+* 16:30 - 16:40 benchamark simulated  (Sam) talk only
+* 16:50 - 17:10 Export to NWB neuroconv (ramon) Handson
+* break 20min
 Bonus track : 
-* 17:30 - 18:30 Hand on on your own dataset + docker isntall
-or
-* 17:30 - 18:30 Container installation
+* 17:30 - 18:30 Hand on on your own dataset
 
 
 =======
@@ -90,5 +85,6 @@ Standard installation using system and pip are faster and easier to manage.
 
 ## Dataset
 
-Please download datasets here : TODO link to paste here
+Please download datasets from this link:
 
+https://drive.google.com/drive/folders/17RlgsMLheW82IMLMgmTFifVACebDZ8X5?usp=sharing
