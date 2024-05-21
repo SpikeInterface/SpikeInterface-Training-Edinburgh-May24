@@ -1,13 +1,15 @@
 # SpikeInterface-Training-Edinburgh-May24
 
-Material for user training day of SpikeInterface
+Material for the SpikeInterface training day, part of the [Tools and Methods for Next Generation Electrophysiology Workshop](https://spikeinterface.github.io/spikeinterface-events/spikeinterface-workshop-2024/).
 
-TODO: put here some practical informations (venue, lunch, ...)
+Taking place on Tuesday May 28th at the University of Edinburgh in the [Informatics Forum](https://informatics.ed.ac.uk/about/location), room G.07.
 
+**To do before the training:**
+1. Install SpikeInterface, using the [installation guide](#installation) below
+2. Download the [dataset for the tutorials](#dataset)
+3. Run the `pre_workshop_tests` notebook to make sure your installion is working properly
 
-Link to the main event:
-https://spikeinterface.github.io/spikeinterface-events/spikeinterface-workshop-2024/
-
+If you have any problems, find an expert on Monday.
 
 ## Schedule
 
@@ -34,10 +36,6 @@ https://spikeinterface.github.io/spikeinterface-events/spikeinterface-workshop-2
 |             | _break_ (20 min)                        |                               |             |
 | **Bonus Track** |                                       |                               |             |
 | 17:30 - 18:30  | Hands-on with your own dataset           |                               | Hands-on     | 
-
-
-
-=======
 
 
 ## Installation
