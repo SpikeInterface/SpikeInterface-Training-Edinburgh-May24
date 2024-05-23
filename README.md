@@ -69,8 +69,8 @@ Standard installation using system and pip are faster and easier to manage.
   
   * `sudo apt install python3.11 python3.11-venv python3.11-dev`
   * `mkdir ~/.virtualenvs`
-  * `python3.11 -m venv ~/.virtualenvs/si_env`
-  * `source ~/.virtualenvs/si_env/bin/activate`
+  * `python3.11 -m venv ~/.virtualenvs/si_tutorial`
+  * `source ~/.virtualenvs/si_tutorial/bin/activate`
   * `pip install --upgrade pip`
   * `pip install spikeinterface[full]`
   * `pip install PySide6`
