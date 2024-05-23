@@ -42,7 +42,7 @@ If you have any problems, find an expert on Monday.
 
 **Procedure for Windows/Apple:**
 
-If you already have anaconda/vscode installed jump to 4.
+If you already have anaconda/vscode installed jump to Step 4.
 
   * Step 1 : If your username/login has spaces and/or weird symbols, **YOU MUST** create
     a new user with a simpler name (no spaces, no symbols). Login with such a user name.
@@ -72,19 +72,21 @@ Standard installation using system and pip are faster and easier to manage.
   * `python3.11 -m venv ~/.virtualenvs/si_tutorial`
   * `source ~/.virtualenvs/si_tutorial/bin/activate`
   * `pip install --upgrade pip`
-  * `pip install spikeinterface[full]`
+  * `pip install spikeinterface[full,extractors]`
   * `pip install PySide6`
   * `pip install jupyterlab`
+  * `pip install sortingview`
   * `pip install https://github.com/NeuralEnsemble/python-neo/archive/master.zip`
   * `pip install https://github.com/SpikeInterface/spikeinterface/archive/main.zip`
   * `pip install https://github.com/SpikeInterface/spikeinterface-gui/archive/main.zip`
-  * `pip install https://github.com/magland/sortingview/archive/main.zip`
   * `pip install https://github.com/NeuralEnsemble/ephyviewer/archive/master.zip`
-  
+  * `pip install neuroconv`
+  * `pip install dandi`
+  * `pip install remfile`
 
 
 ## Dataset
 
-Please download datasets from this link:
+Please download datasets from this link and unzip them:
 
 https://drive.google.com/drive/folders/17RlgsMLheW82IMLMgmTFifVACebDZ8X5?usp=sharing
