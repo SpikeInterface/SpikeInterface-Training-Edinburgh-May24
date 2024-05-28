@@ -59,7 +59,7 @@ If you already have anaconda/vscode installed jump to Step 4.
     This command is a tip not the good one :`cd C:/users/myusername/where_the_zip_is`
   * Step 8 : create the python environement `conda env create -f spikeinterface_environment.yml`.
     This can take a while and download many paquets. This need bandwith.
-    **Do not expect to do this during the tutorial**
+    **Do not wait to do this during the tutorial, it can be time consuming**
 
 
 **Procedure for linux ubuntu/debian style:**
